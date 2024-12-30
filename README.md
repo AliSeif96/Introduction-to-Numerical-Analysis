@@ -91,3 +91,10 @@ ________________
 <img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/README/vscode10.png" width="500">
 
 <img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/README/vscode11.png" width="500">
+
+________________
+## 3-Linters and debugging
+
+<img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/README/pylint.png" width="500">
+
+<img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/README/pylint2.png" width="500">
