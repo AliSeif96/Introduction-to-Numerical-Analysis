@@ -8,7 +8,7 @@
 #### Exercise class time: <ins>**Monday at 2:00**</ins> (determined by student vote)
 ________________
 
-### 1-How to install Python in Visual Studio Code (VS Code)
+## 1-How to install Python in Visual Studio Code (VS Code)
 #### 1.0-Checking if Python is installed
 Go to Command Prompt (Terminal)(```⊞ Win``` + ```R``` → ```cmd```)
 
@@ -79,3 +79,15 @@ Extensions are small programs that are added to VS Code and add features to the 
 After installing the Python extension, we can run our code.
 
 <img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/README/vscode7.png" width="500">
+
+________________
+
+## 2-Working with projects and folders
+
+<img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/README/vscode8.png" width="500">
+
+<img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/README/vscode9.png" width="500">
+
+<img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/README/vscode10.png" width="500">
+
+<img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/README/vscode11.png" width="500">
