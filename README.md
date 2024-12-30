@@ -17,6 +17,8 @@ Type ```Python``` in Command Prompt
 If Python is available on your system, it will display its version.
 
 
+<img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/README/chek%20python.png" width="500">
+
 #### 1.1-Download and install Python
 
 
