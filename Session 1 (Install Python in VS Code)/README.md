@@ -1,13 +1,3 @@
-# Teaching Assistant of Introduction to Numerical Analysis Class
-
-#### Class Date: 2024-2025
-#### Instructor: Dr. Mina Zarei
-#### Class Link: [Telegram group](https://t.me/+O0bkbFKCmfxmNTg0).
-
-
-#### Exercise class time: <ins>**Monday at 2:00**</ins> (determined by student vote)
-________________
-
 ## 1-How to install Python in Visual Studio Code (VS Code)
 #### 1.0-Checking if Python is installed
 Go to Command Prompt (Terminal)(```⊞ Win``` + ```R``` → ```cmd```)
