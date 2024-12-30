@@ -8,4 +8,23 @@
 #### Exercise class time: <ins>**Monday at 2:00**</ins> (determined by student vote)
 ________________
 
-### 1.Python installation tutorial
+### 1-How to install Python in Visual Studio Code (VS Code)
+#### 1.0-Checking if Python is installed
+Go to Command Prompt (Terminal)(```⊞ Win``` + ```R``` → ```cmd```)
+
+Type ```Python``` in Command Prompt
+
+If Python is available on your system, it will display its version.
+
+
+#### 1.1-Download and install Python
+
+
+
+##### Download link: [www.python.org](https://www.python.org/downloads/).
+
+
+#### 1.1-Download and install Visual Studio Code
+
+
+##### Download link: [www.code.visualstudio.com](https://code.visualstudio.com/Download).
