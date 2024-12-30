@@ -74,9 +74,13 @@ ________________
 
 ## 2-Working with projects and folders
 
+Creating a folder:
+
 <img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/Session%201%20(Install%20Python%20in%20VS%20Code)/README/vscode8.png" width="500">
 
 <img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/Session%201%20(Install%20Python%20in%20VS%20Code)/README/vscode9.png" width="500">
+
+Creating a new file in folder:
 
 <img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/Session%201%20(Install%20Python%20in%20VS%20Code)/README/vscode10.png" width="500">
 
@@ -84,6 +88,7 @@ ________________
 
 ________________
 ## 3-Linters and debugging
+Linting can prevent debugging by catching bugs before you manually run your program. It will run the code and check for errors. Debugging is something you manually do after a bug is found.
 
 <img src="https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/blob/main/Session%201%20(Install%20Python%20in%20VS%20Code)/README/pylint.png" width="500">
 
