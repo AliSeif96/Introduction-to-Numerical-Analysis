@@ -1,40 +1,28 @@
-# %% [markdown]
-# # Welcome to Python Programming!
-# 
+# Welcome to Python Programming!
+###### Teaching Assistant of Introduction to Numerical Analysis Class
+###### Class Date: 2024-2025
+###### Instructor: Dr. Mina Zarei
+###### Class Link: [Telegram group](https://t.me/+O0bkbFKCmfxmNTg0).
+###### Exercise class time: <ins>**Monday at 9:30 P002 Class**</ins> (determined by student vote)
+# ____________________________________________
+## Session 1 (Install Python in VS Code)
 
-# %% [markdown]
-# ###### Teaching Assistant of Introduction to Numerical Analysis Class
-# 
-# ###### Class Date: 2024-2025
-# ###### Instructor: Dr. Mina Zarei
-# ###### Class Link: [Telegram group](https://t.me/+O0bkbFKCmfxmNTg0).
-# 
-# ###### Exercise class time: <ins>**Monday at 9:30 P002 Class**</ins> (determined by student vote)
+###### Follow the instructions in the GitHub link.
+###### link: [www.github.com/AliSeif96/Introduction-to-Numerical-Analysis/](https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/tree/main/Session%201%20(Install%20Python%20in%20VS%20Code)).
+# ____________________________________________
+## session 2 (Basic training)
 
-# %% [markdown]
-# # ____________________________________________
-# ## Session 1 (Install Python in VS Code)
+###### 1. Variables and Data Types
+###### 2. Taking Input from the User
+###### 3. Conditionals (if, elif, else)
+###### 4. Loops
+###### 5. Functions
 
-# %% [markdown]
-# ###### Follow the instructions in the GitHub link.
-# ###### link: [www.github.com/AliSeif96/Introduction-to-Numerical-Analysis/](https://github.com/AliSeif96/Introduction-to-Numerical-Analysis/tree/main/Session%201%20(Install%20Python%20in%20VS%20Code)).
 
-# %% [markdown]
-# # ____________________________________________
-# ## session 2 (Basic training)
+### 1. Variables and Data Types
+##### Python allows you to store data in variables.
 
-# %% [markdown]
-# ###### 1. Variables and Data Types
-# ###### 2. Taking Input from the User
-# ###### 3. Conditionals (if, elif, else)
-# ###### 4. Loops
-# ###### 5. Functions
 
-# %% [markdown]
-# ### 1. Variables and Data Types
-# ##### Python allows you to store data in variables.
-
-# %%
 name = "Alice"      # Assign a string value "Alice" to the variable `name`.
 age = 25            # Assign an integer value 25 to the variable `age`.
 height = 5.5        # Assign a float value 5.5 (decimal number) to the variable `height`.
@@ -46,11 +34,10 @@ print("Height:", height)# Print the value of `height` with a label "Height:".
 print("Is a student:", is_student)# Print the value of `is_student` with a label "Is a student:".
 
 
-# %% [markdown]
-# ### 2. Taking Input from the User
-# ##### Use the input() function to get user input.
 
-# %%
+### 2. Taking Input from the User
+##### Use the input() function to get user input.
+
 # Prompt the user to enter their name and store the input as a string in the variable `user_name`.
 user_name = input("Enter your name: ")  # The `input` function always returns a string.
 
@@ -59,11 +46,11 @@ user_name = input("Enter your name: ")  # The `input` function always returns a 
 print("Hello ", user_name + "!")  # `user_name + "!"` appends "!" to the user's name.
 
 
-# %% [markdown]
-# ### 3. Conditionals (if, elif, else)
-# ##### Control the flow of the program using conditions.
 
-# %%
+### 3. Conditionals (if, elif, else)
+##### Control the flow of the program using conditions.
+
+
 # Categorizing a person based on their age using if-elif-else statements
 
 if age < 18:                            # Check if the age falls into the "minor" category
@@ -73,12 +60,11 @@ elif age >= 18 and age < 60:            # Using `and` to combine two conditions:
 else:                                   # If the age does not match the above conditions, it falls into the "senior citizen" category
     print("You are a senior citizen.")  # This executes for ages 60 and above
 
-# %% [markdown]
-# ### 4. Loops
-# ##### Use loops to repeat a block of code.
-# ##### a. For loop
+### 4. Loops
+##### Use loops to repeat a block of code.
+##### a. For loop
 
-# %%
+
 # Print a heading to indicate the counting starts.
 print("\nCounting from 1 to 5:")
 
@@ -87,10 +73,10 @@ for i in range(1, 6, 1):  # range(start, stop, step): starts at 1, stops before 
     print(i)  # Print the current number in each iteration.
 
 
-# %% [markdown]
-# ##### b. While loop
 
-# %%
+##### b. While loop
+
+
 # Print a heading to indicate the countdown starts.
 print("\nCountdown from 5:")
 
