@@ -25,3 +25,15 @@
 ###### 7. Arrays
 ###### 8. Matrices
 ###### 9. Using `NumPy`
+# ____________________________________________
+## session 4 (Root finding)
+###### 10.1. Bisection Method (روش تصنیف)
+###### 10.2. False Position Method (روش نابجایی)
+###### 10.3. Newton-Raphson Method (روش نیوتن رافسون)
+###### 10.4. Secant Method (روش وتری)
+###### 10.5. Fixed-Point Iteration (روش تکرار ساده)
+###### 10.6. Brent's Method
+# ____________________________________________
+## session 5 (Solving and displaying the Kuramoto model)
+###### 11. Matplotlib
+###### 12. Kuramoto model
